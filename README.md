@@ -3,9 +3,6 @@
 This project focuses on performing **sentiment analysis on Amazon product reviews** using **Python and Natural Language Processing (NLP)** techniques.  
 The application classifies user opinions into **positive, negative, or neutral sentiments**, helping businesses and researchers understand customer feedback effectively.
 
-This project is developed as part of academic work associated with  
-**Guru Gobind Singh Indraprastha University (GGSIPU)**.
-
 ---
 
 ## 📌 Project Overview
